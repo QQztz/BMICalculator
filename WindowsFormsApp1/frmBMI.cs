@@ -20,7 +20,6 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
-
         private void btnRun_Click(object sender, EventArgs e)
         {
             //double height = double.Parse(txtHeight.Text) / 100;
